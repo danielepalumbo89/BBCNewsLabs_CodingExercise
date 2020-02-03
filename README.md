@@ -1,8 +1,8 @@
-# BBCNewsLabs_CodingExercise
+# BBC News Labs - Coding Exercise
 
 Hello,
 
-This is my work for the BBC NewsLab coding excercise.
+This is my work for the BBC News Labs coding excercise.
 
 To be able to run the script, just download or `git clone https://github.com/danielepalumbo89/BBCNewsLabs_CodingExercise.git ` this repository in your Downloads folder.
 
